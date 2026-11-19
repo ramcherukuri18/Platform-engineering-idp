@@ -1,0 +1,1 @@
+Argo CD pruning demonstration
